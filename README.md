@@ -1,5 +1,17 @@
 # Event Instructions
-This repository has instructions on the installation of various tools that are used as part of the 2nd half of the workshop where you will working hands-on. Please select the instructions based on the event you are attending:
+Read on if you have registered for participation in one of our Hands-On Blockchain event. It is very important that you come prepared for the workshop. 
+
+# What does it mean to be prepared?
+* You MUST get your own machine (PC/Mac/Linux - all good)
+* Minimum Recommended: 8GB RAM, 50GB Disk space, Decent CPU
+* You MUST have administrative rights on the machine
+* You MUST be able to connect to public wi-fi 
+* You MUST install/setup various software that will be needed for workshop
+* You MUST have basic knowledge/understanding of programming
+
+If you do not meet the above requirements, we suggest that you un-register and plan for a future event as you would not benefit from the workshop.
+
+# Please select the instructions based on the event you are attending:
 
 
 # InsureTech/Hartford  Oct 11, 2017
