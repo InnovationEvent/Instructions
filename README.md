@@ -45,16 +45,39 @@ We suggest that you work on setting up your machines as soon as possible to have
 
 4. Install Visual Code (Community)
 
-4. Install Truffle
+   https://www.visualstudio.com/vs/community/
+   
+   > Add the extension for Solidity to VCode
 
-5. Install TestRPC
+5. Install Truffle
 
-5. Bookmark these links in your Google Chrome
+   > npm install -g truffle
+   
+   Read documentation here:
+   
+   http://truffleframework.com/docs/
+   
+
+6. Install TestRPC
+
+   > npm install -g ethereumjs-testrpc
+   
+   Read the documentation here:
+   
+   https://github.com/ethereumjs/testrpc
+
+7. Bookmark these links in your Google Chrome
 
     * https://wallet.ethereum.org/
-    * 
+  
 
-5. Install Ethereum Wallet (Optional)
+8. Install Ethereum Wallet (Optional)
+   
+   https://ethereum.org
+   
+   * Connect to ROPSTEN or TestNet
+   * This would download complete chaindata which may take a few hours to day or 2
+   * You will be able to mine for Test ethers - go ahead do it if you can !!!
 
 Light Reading:
 ==============
