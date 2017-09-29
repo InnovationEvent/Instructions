@@ -35,3 +35,12 @@ We suggest that you work on setting up your machines as soon as possible to have
     > npm  -v        v5.x
 
 4. Install Truffle
+
+5. Install Ethereum Wallet (Optional)
+
+Light Reading:
+==============
+* General Blockchain Technology articles
+* Ethereum & Smart contracts
+* Solidity fundamentals
+* Testing frameworks specifically Mocha and Chai
