@@ -13,7 +13,16 @@ If you do not meet the above requirements, we suggest that you un-register and p
 
 # What if I face issues?
 
+There is tons of information available on ineternet to solve most of the common problems. We suggest that before asking the organizers to help you with an issue, search the web and try to address the issue on your own. If you are able to solve the issue share it with other by opening an issue + solution ... this would help others.
+
 To raise and track issues we use GitHub Issues. Simply click on issues and add .... folks are looking at these issues and will do their best to help you out. If the issue you are facing cannot be solved due to challenges on your machine, you may have to arrange an alternative.
+
+Make sure to provide all relevant information for the issue you are facing, include:
+    * What are you trying to do?
+    * What OS/Machine + Version e.g., Windows 10?
+    * Clearly explain what is the issue
+    * Provide a screenshot of the issue
+    * Have you looked up on Google? What did you do try resolving the issue on your own?
 
 We suggest that you work on setting up your machines as soon as possible to have enough time to get all issues (if any) addressed.
 
@@ -34,7 +43,16 @@ We suggest that you work on setting up your machines as soon as possible to have
     > node -v        v6.x
     > npm  -v        v5.x
 
+4. Install Visual Code (Community)
+
 4. Install Truffle
+
+5. Install TestRPC
+
+5. Bookmark these links in your Google Chrome
+
+    * https://wallet.ethereum.org/
+    * 
 
 5. Install Ethereum Wallet (Optional)
 
