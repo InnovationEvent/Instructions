@@ -49,8 +49,14 @@ We suggest that you work on setting up your machines as soon as possible to have
    https://www.visualstudio.com/vs/community/
    
    > Add the extension for Solidity to VCode
+   
+5. Clone the repository
 
-5. Install Truffle
+   https://github.com/InnovationEvent/HelloEthereum
+   
+   > Open it in Visual Code - solidity code should be color coded
+
+6. Install Truffle
 
    > npm install -g truffle
    
@@ -59,7 +65,7 @@ We suggest that you work on setting up your machines as soon as possible to have
    http://truffleframework.com/docs/
    
 
-6. Install TestRPC
+7. Install TestRPC
 
    > npm install -g ethereumjs-testrpc
    
@@ -67,7 +73,7 @@ We suggest that you work on setting up your machines as soon as possible to have
    
    https://github.com/ethereumjs/testrpc
 
-7. Bookmark these links in your Google Chrome
+8. Bookmark these links in your Google Chrome
 
     * https://github.com/InnovationEvent
     * https://wallet.ethereum.org/
@@ -76,7 +82,7 @@ We suggest that you work on setting up your machines as soon as possible to have
     * http://faucet.ropsten.be:3001
   
 
-8. Install Ethereum Wallet (Optional)
+9. Install Ethereum Wallet (Optional)
    
    https://ethereum.org
    
