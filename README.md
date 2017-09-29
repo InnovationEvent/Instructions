@@ -24,5 +24,14 @@ We suggest that you work on setting up your machines as soon as possible to have
 
     https://metamask.io
     
-3. Install Node 
+    Read and follow instructions in the document:  *MetaMask.pdf*
+    
+3. Install Node v6.x  [PLEASE DO NOT Install v7x or v8x]
+
+    https://nodejs.org/en/download/
+    
+    After the installation, please verify the versions:
+    > node -v        v6.x
+    > npm  -v        v5.x
+
 4. Install Truffle
