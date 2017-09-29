@@ -34,7 +34,7 @@ We suggest that you work on setting up your machines as soon as possible to have
 
     https://metamask.io
     
-3. Follow the instruction in the document:  *MetaMask.pdf*
+3. MetaMask Setup : Follow the instruction in the document:  *Install MetaMask and Get Ethers.pdf*
     
 3. Install Node v6.x  [PLEASE DO NOT Install v7x or v8x]
 
