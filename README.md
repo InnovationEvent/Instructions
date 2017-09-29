@@ -29,11 +29,12 @@ We suggest that you work on setting up your machines as soon as possible to have
 # InsureTech/Hartford  Oct 11, 2017
 
 1. Ensure you have Google Chrome installed on your machine
+
 2. Install MetaMask Chrome plugin using the instructions below
 
     https://metamask.io
     
-    Read and follow instructions in the document:  *MetaMask.pdf*
+3. Follow the instruction in the document:  *MetaMask.pdf*
     
 3. Install Node v6.x  [PLEASE DO NOT Install v7x or v8x]
 
@@ -68,7 +69,11 @@ We suggest that you work on setting up your machines as soon as possible to have
 
 7. Bookmark these links in your Google Chrome
 
+    * https://github.com/InnovationEvent
     * https://wallet.ethereum.org/
+    * https://remix.ethereum.org
+    * https://faucet.rinkeby.io/
+    * http://faucet.ropsten.be:3001
   
 
 8. Install Ethereum Wallet (Optional)
