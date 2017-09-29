@@ -11,8 +11,11 @@ Read on if you have registered for participation in one of our Hands-On Blockcha
 
 If you do not meet the above requirements, we suggest that you un-register and plan for a future event as you would not benefit from the workshop.
 
-# Please select the instructions based on the event you are attending:
+# What if I face issues?
 
+To raise and track issues we use GitHub Issues. Simply click on issues and add .... folks are looking at these issues and will do their best to help you out. If the issue you are facing cannot be solved due to challenges on your machine, you may have to arrange an alternative.
+
+We suggest that you work on setting up your machines as soon as possible to have enough time to get all issues (if any) addressed.
 
 # InsureTech/Hartford  Oct 11, 2017
 
