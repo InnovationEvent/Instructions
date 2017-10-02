@@ -34,7 +34,7 @@ Make sure to provide all relevant information for the issue you are facing, incl
 
 We suggest that you work on setting up your machines as soon as possible to have enough time to get all issues (if any) addressed.
 
-# InsureTech/Hartford  Oct 11, 2017
+# InsurTech/Hartford  Oct 11, 2017
 
 1. Ensure you have Google Chrome installed on your machine
 
