@@ -90,6 +90,11 @@ We suggest that you work on setting up your machines as soon as possible to have
    * This would download complete chaindata which may take a few hours to day or 2
    * You will be able to mine for Test ethers - go ahead do it if you can !!!
 
+10. Git client + Understanding of basic git commands
+  
+    https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+    
+
 Light Reading:
 ==============
 * General Blockchain Technology articles
