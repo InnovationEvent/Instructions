@@ -17,7 +17,13 @@ There is tons of information available on ineternet to solve most of the common 
 
 To raise and track issues we use GitHub Issues. Simply click on issues and add .... folks are looking at these issues and will do their best to help you out. If the issue you are facing cannot be solved due to challenges on your machine, you may have to arrange an alternative.
 
+![Open new issue](https://github.com/TcsInnovationEvent/Instructions/issues)
+
+
+
 ![Link to issues](https://user-images.githubusercontent.com/32396416/31078861-c79319c2-a751-11e7-921b-dd79c3669e4d.png)
+
+
 
 Make sure to provide all relevant information for the issue you are facing, include:
     * What are you trying to do?
