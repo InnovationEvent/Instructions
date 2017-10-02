@@ -26,11 +26,11 @@ To raise and track issues we use GitHub Issues. Simply click on issues and add .
 
 
 Make sure to provide all relevant information for the issue you are facing, include:
-    * What are you trying to do?
-    * What OS/Machine + Version e.g., Windows 10?
-    * Clearly explain what is the issue
-    * Provide a screenshot of the issue
-    * Have you looked up on Google? What did you do try resolving the issue on your own?
+* What are you trying to do?
+* What OS/Machine + Version e.g., Windows 10?
+* Clearly explain what is the issue
+* Provide a screenshot of the issue
+* Have you looked up on Google? What did you do try resolving the issue on your own?
 
 We suggest that you work on setting up your machines as soon as possible to have enough time to get all issues (if any) addressed.
 
