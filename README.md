@@ -7,7 +7,7 @@ Read on if you have registered for participation in one of our Hands-On Blockcha
 * You MUST have administrative rights on the machine
 * You MUST be able to connect to public wi-fi 
 * You MUST install/setup various software that will be needed for workshop
-* You MUST have basic knowledge/understanding of programming
+* You MUST be comfortable with coding
 
 If you do not meet the above requirements, we suggest that you un-register and plan for a future event as you would not benefit from the workshop.
 
