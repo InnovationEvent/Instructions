@@ -12,10 +12,12 @@ Read on if you have registered for participation in one of our Hands-On Blockcha
 
 If you do not meet the above requirements, we suggest that you un-register and plan for a future event as you would not benefit from the workshop.
 
-**PS**
-Our team will not be able to provide support for Tools installation & setup issues during the event. If you face any issue then this is the time to get it resolved. Use the issues link, if you face any problem .... https://github.com/TcsInnovationEvent/Instructions/issues
+
 
 # What if I face issues?
+
+**PS**
+Our team will not be able to provide support for Tools installation & setup issues during the event. If you face any issue then this is the time to get it resolved. 
 
 There is tons of information available on ineternet to solve most of the common problems. We suggest that before asking the organizers to help you with an issue, search the web and try to address the issue on your own. If you are able to solve the issue share it with other by opening an issue + solution ... this would help others.
 
