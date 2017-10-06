@@ -114,8 +114,11 @@ We suggest that you work on setting up your machines as soon as possible to have
     https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
     
 
-Light Reading:
-==============
+Weekend Reading List:
+=====================
+If you are coming JUST for the afternoon session only then we are assuming that you have an idea on the fundamentals of Blockchain and Ethereum......either way we suggest that you go through the material available here: http://ethereum101.org/
+
+* Ethereum terminology - Ethers, Gas, Consensus ... Google and you will find tons of information  
 * General Blockchain Technology articles
 * Ethereum & Smart contracts
 * Solidity fundamentals
