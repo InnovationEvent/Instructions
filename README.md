@@ -8,6 +8,7 @@ Read on if you have registered for participation in one of our Hands-On Blockcha
 * You MUST be able to connect to public wi-fi 
 * You MUST install/setup various software that will be needed for workshop
 * You MUST be comfortable with coding
+* If you are joining us JUST for the afternoon session - Please refer to the note on reading list at the end of this document.
 
 If you do not meet the above requirements, we suggest that you un-register and plan for a future event as you would not benefit from the workshop.
 
