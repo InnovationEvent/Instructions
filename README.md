@@ -72,7 +72,14 @@ We suggest that you work on setting up your machines as soon as possible to have
    
    http://truffleframework.com/docs/
    
-
+   ****Validate****
+   In a terminal window
+   > truffle version
+   Create a directory and cd to it, run this command:
+   > truffle init
+   
+   Last command generates the Truffle project .... on Windows (only) you need to rename the truffle.json to truffle-config.json
+   
 7. Install TestRPC
 
    > npm install -g ethereumjs-testrpc
@@ -80,6 +87,10 @@ We suggest that you work on setting up your machines as soon as possible to have
    Read the documentation here:
    
    https://github.com/ethereumjs/testrpc
+   
+   ****Validate****
+   In a terminal window
+   > testrpc             It should show a bunch of log messages & no error
 
 8. Bookmark these links in your Google Chrome
 
